@@ -1,8 +1,14 @@
 # Machine Learning Engineer
 
+#### Technical Skills : Python , TensorFlow , Keras
+
 ### Education 
-Faculty of Computer and Information Sciences - Ain Shams University
-Sophomore
+- DEPI Microsoft Machine Learning Engineer
+  Stated : April 2024 
+- Faculty of Computer and Information Sciences
+ Ain Shams University (ASU)
+ Expected Graduation Date : July 2026
+ CGPA : 3.378/4.00
 
 ### Projects 
 English Hand Sign detection and classfication
@@ -14,5 +20,4 @@ Applai kaggle competition assignment
 sentiment analysis classification
 
 ### certificates
-depi microsoft machine learning engineer
 applai summer training
