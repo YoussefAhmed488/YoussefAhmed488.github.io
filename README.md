@@ -25,4 +25,4 @@ developed a system that analyzes the sentiment (positive, negative, neutral) of 
 - Analyze customer sentiment to refine marketing campaigns and target specific audience segments
   
 ### certificates
-[Applai Summer Training](https://drive.google.com/file/d/1HigKwvrDPaBoMf1FfnzEjSBXe_mPyiok/view?usp=drive_link)
+[Applai Computer Vision Summer Training](https://drive.google.com/file/d/1HigKwvrDPaBoMf1FfnzEjSBXe_mPyiok/view?usp=drive_link)
