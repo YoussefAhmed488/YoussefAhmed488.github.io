@@ -6,9 +6,11 @@ Sophomore
 
 ### Projects 
 English Hand Sign detection and classfication
+
 Applai kaggle competition assignment 
 - assignment1
 - assignment2
+
 sentiment analysis classification
 
 ### certificates
