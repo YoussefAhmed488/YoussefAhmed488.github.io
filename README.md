@@ -8,7 +8,8 @@ _Started : April 2024_
 **Faculty of Computer and Information Sciences**  
 **Ain Shams University** _(Second year)_  
 _Expected Graduation Date : July 2026_  
-_CGPA : 3.378/4.00_
+_CGPA : 3.378/4.00_. 
+
 ---
 ### Projects 
 **English Hand Sign Detection & Classfication**  
