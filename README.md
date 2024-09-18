@@ -27,6 +27,7 @@ _CGPA : 3.378/4.00_.
 - Analyze customer reviews to understand their sentiment towards products, services, or brand image.
 - Track sentiment trends on social media to identify potential brand reputation issues.
 - Analyze customer sentiment to refine marketing campaigns and target specific audience segments.  
+
 ---
 ### Certificates
 [Applai Computer Vision Summer Training](https://drive.google.com/file/d/1HigKwvrDPaBoMf1FfnzEjSBXe_mPyiok/view?usp=drive_link)
