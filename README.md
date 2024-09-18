@@ -9,7 +9,7 @@ _Started : April 2024_
 **Ain Shams University** _(Second year)_  
 _Expected Graduation Date : July 2026_  
 _CGPA : 3.378/4.00_
-
+---
 ### Projects 
 **English Hand Sign Detection & Classfication**  
   developed a system that can detect hand sign on laptop camera and tell what the sign represent
@@ -26,6 +26,6 @@ _CGPA : 3.378/4.00_
 - Analyze customer reviews to understand their sentiment towards products, services, or brand image.
 - Track sentiment trends on social media to identify potential brand reputation issues.
 - Analyze customer sentiment to refine marketing campaigns and target specific audience segments
-  
+---
 ### Certificates
 [Applai Computer Vision Summer Training](https://drive.google.com/file/d/1HigKwvrDPaBoMf1FfnzEjSBXe_mPyiok/view?usp=drive_link)
